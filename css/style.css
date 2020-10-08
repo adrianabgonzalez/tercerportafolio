@@ -1,0 +1,86 @@
+body {
+    font-family: 'Comfortaa', cursive;
+}
+
+.color_fondo {
+    background-color:#FFCBB3;
+} 
+
+.navbar {
+    font-weight: 400;
+    font-family: 'Fredoka One', cursive;
+    font-size: 15px;
+    
+}
+
+header .row {
+    vertical-align: middle;
+}
+
+#about {
+    font-family: 'Staatliches', cursive;
+    font-weight: 400;
+    font-size: 40px;
+    color:#f9cdb8;
+}
+
+header .card-title{
+    font-family: 'Fredoka One', cursive;
+    font-weight: 800;
+    font-size: 40px;
+    width: 100%;
+}
+
+#cards {
+    background-color: #FFCBB3;
+}
+
+p {
+    font-family: 'Comfortaa', cursive;
+}
+
+.card-body {
+    background-color: #f9cdb8
+}
+
+.centrado {
+    text-align: center;
+}
+
+#experience, #contact {
+    font-family: 'Staatliches', cursive;
+    font-weight: 400;
+    font-size: 40px;
+    color: #f9cdb8;
+}
+
+#jobs {
+    font-family: 'Staatliches', cursive;
+    font-weight: 400;
+    font-size: 40px;
+    color: #ffffff;
+}
+
+#contacto {
+    text-align: center;
+    font-family: Oswald, Bold;
+    font-weight: 700;
+    font-size: 70px;
+    color: #ffcbb3;
+    margin: 0;
+}
+
+footer .h1 {
+    font-weight: 500;
+    font-family: 'Fredoka One', cursive;
+    font-size: 50px;
+    text-align: center;
+    vertical-align: middle;
+    margin: 0 auto;
+    width: 100%;
+    display: inline-block;
+}
+
+footer i {
+    color: #ffffff;
+}
