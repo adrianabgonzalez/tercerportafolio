@@ -24,6 +24,10 @@ header .row {
     color:#f9cdb8;
 }
 
+.container-sm {
+width: auto;
+}
+
 header .card-title{
     font-family: 'Fredoka One', cursive;
     font-weight: 800;
